@@ -43,7 +43,7 @@ Most current web servers with PHP & MySQL installed will be capable of running P
 
 Minimum Requirements
 - Linux or Windows OS
-- PHP Version 5.3+
+- PHP Version 5.3 or Higher Version
 - Both PDO & MySQLi Support
 - GD2 Image Library
 - MySQL Version 4.1.x and above
