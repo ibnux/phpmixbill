@@ -58,7 +58,7 @@ Terima jasa instalasi PHPMIXBILL beserta mikrotiknya.
 Via Team Viewer maupun Barang dibeli dari saya dan tinggal pakai.
 
 1. Unit Mikrotik Router
-2. Raspberry Pi Server (RasPi + Casing + Meory 16GB + Adaptor)
+2. Raspberry Pi Server (RasPi + Casing + Memory 16GB + Adaptor)
 
 Jasa kurang lebih Rp. 500.000, belum termasuk ongkir dan harga perangkat, Gratis Tanya Jawab via Messenger (Jika lagi senggang).
 
