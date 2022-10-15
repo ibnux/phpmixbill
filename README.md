@@ -1,4 +1,8 @@
-# PHP Mikrotik Billing
+# Project Archived
+
+i renamed the project to [PHPNuxBill](https://github.com/hotspotbilling/phpnuxbill)
+
+and making Major Update, because no one donate or be a sponsor of this project, the project will be slow update and the progress will be on private repository
 
 ## Feature
 
